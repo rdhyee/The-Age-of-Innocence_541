@@ -1,0 +1,61 @@
+_repo: The-Age-of-Innocence_541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Olivieri, David
+    - Wharton, Edith Newbold Jones
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: "The Age of Innocence is Edith Wharton's twelfth novel, initially serialized\
+  \ in four parts in the Pictorial Review magazine in 1920, and later released by\
+  \ D. Appleton and Company as a book in New York and in London. It won the 1921 Pulitzer\
+  \ Prize for Fiction, making Wharton the first woman to win the prize. The committee\
+  \ had rejected Sinclair's Main Street, on political grounds and \"established Wharton\
+  \ as the American 'First Lady of Letters'\", the irony being that the committee\
+  \ had awarded The Age of Innocence the prize on grounds that negated Wharton's own\
+  \ blatant and subtle ironies which constitute and make the book so worthy of attention.\
+  \ The story is set in upper-class New York City in the 1870s, during the Gilded\
+  \ Age. Wharton wrote the book in her 50s, after she had established herself as a\
+  \ strong author with publishers clamoring for her work.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Movie Books
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '541'
+  wikidata: Q1045464
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Love stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Upper class -- Fiction'
+- !lcsh 'Separated people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- GITenberg
+title: The Age of Innocence
+url: http://www.gutenberg.org/ebooks/541
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Temps_de_l%27innocence_(roman)
+- https://ar.wikipedia.org/wiki/%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/De_jaren_van_onschuld
+- https://pt.wikipedia.org/wiki/The_Age_of_Innocence
+- https://fa.wikipedia.org/wiki/%D8%B9%D8%B5%D8%B1_%D8%A8%DB%8C%E2%80%8C%DA%AF%D9%86%D8%A7%D9%87%DB%8C
+- https://ko.wikipedia.org/wiki/%EC%88%9C%EC%88%98%EC%9D%98_%EC%8B%9C%EB%8C%80_(%EC%86%8C%EC%84%A4)
+- https://es.wikipedia.org/wiki/La_edad_de_la_inocencia_(novela)
+- https://en.wikipedia.org/wiki/The_Age_of_Innocence
+- https://it.wikipedia.org/wiki/L%27et%C3%A0_dell%27innocenza_(romanzo)
+- https://bs.wikiquote.org/wiki/Doba_nevinosti
